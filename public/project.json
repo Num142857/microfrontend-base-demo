@@ -1,0 +1,7 @@
+{
+    "name": "microfrontend-base-demo",
+    "prefix": "/microfrontend-base-demo/",
+    "main": "/microfrontend-base-demo/main.js",
+    "store": "/microfrontend-base-demo/store.js",
+    "base": true
+  }
