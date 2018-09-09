@@ -212,7 +212,6 @@ export default class SiderMenu extends PureComponent {
         width={256}
         className='sider sub'
       >
-        <div style={{ height: '33px' }}></div>
         <Menu
           key='Menu'
           mode='inline'
